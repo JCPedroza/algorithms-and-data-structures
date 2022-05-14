@@ -12,7 +12,8 @@ formally, and here is where I collect all of them for our convenience.
 Please feel free to contribute in any way! All repos are always open for code reviews,
 pull requests, issues, and discussions.
 
-## Algorithms and data structures implemented in...
+## Algorithms and data structures implemented in
+- [Haskell](https://github.com/jcpedroza/algorithms-and-data-structures-hs)
 - [Python](https://github.com/jcpedroza/algorithms-and-data-structures-py)
 - [JavaScript](https://github.com/jcpedroza/algorithms-and-data-structures-js)
 - [OCaml](https://github.com/jcpedroza/algorithms-and-data-structures-ocaml)
