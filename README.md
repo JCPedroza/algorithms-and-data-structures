@@ -1,4 +1,4 @@
-# Algorithms and Data Structures
+# Algorithms & Data Structures
 
 I have multiple repositories, in different programming languages, dedicated to 
 the study of algorithms and data structures. These repositories serve as a 
