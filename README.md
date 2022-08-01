@@ -11,6 +11,6 @@ Code reviews, pull requests, issues, and discussions are always welcome!
 - [Standard ML](https://github.com/jcpedroza/algorithms-and-data-structures-sml)
 - [Haskell](https://github.com/jcpedroza/algorithms-and-data-structures-hs)
 - [Python](https://github.com/jcpedroza/algorithms-and-data-structures-py)
-- [Lua](https://github.com/jcpedroza/algorithms-and-data-structures-py)
+- [Lua](https://github.com/jcpedroza/algorithms-and-data-structures-lua)
 - [JavaScript](https://github.com/jcpedroza/algorithms-and-data-structures-js)
 - [OCaml](https://github.com/jcpedroza/algorithms-and-data-structures-ocaml)
