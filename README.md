@@ -15,3 +15,4 @@ Code reviews, pull requests, issues, and discussions are always welcome!
 - [JavaScript](https://github.com/jcpedroza/algorithms-and-data-structures-js)
 - [Ruby](https://github.com/jcpedroza/algorithms-and-data-structures-rb)
 - [OCaml](https://github.com/jcpedroza/algorithms-and-data-structures-ocaml)
+- [TypeScript](https://github.com/jcpedroza/algorithms-and-data-structures-ts)
