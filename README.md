@@ -14,5 +14,6 @@ Code reviews, pull requests, issues, and discussions are always welcome!
 - [Lua](https://github.com/jcpedroza/algorithms-and-data-structures-lua)
 - [JavaScript](https://github.com/jcpedroza/algorithms-and-data-structures-js)
 - [Ruby](https://github.com/jcpedroza/algorithms-and-data-structures-rb)
+- [Racket](https://github.com/jcpedroza/algorithms-and-data-structures-rkt)
 - [OCaml](https://github.com/jcpedroza/algorithms-and-data-structures-ocaml)
 - [TypeScript](https://github.com/jcpedroza/algorithms-and-data-structures-ts)
